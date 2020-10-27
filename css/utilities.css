@@ -18,6 +18,69 @@
   border: 1px #fff solid;
 }
 
+/* Background */
+.bg-primary {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.bg-secondary {
+  background-color: var(--secondary-color);
+  color: #fff;
+}
+
+.bg-dark {
+  background-color: var(--dark-color);
+  color: #fff;
+}
+
+.bg-light {
+  background-color: var(--light-color);
+  color: #333;
+}
+
+/* Colored Button */
+.btn-primary {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.btn-secondary {
+  background-color: var(--secondary-color);
+  color: #fff;
+}
+
+.btn-dark {
+  background-color: var(--dark-color);
+  color: #fff;
+}
+
+.btn-light {
+  background-color: var(--light-color);
+  color: #333;
+}
+
+/* Text sizes */
+.lead {
+  font-size: 20px;
+}
+
+.sm {
+  font-size: 1rem;
+}
+
+.md {
+  font-size: 2rem;
+}
+
+.lg {
+  font-size: 3rem;
+}
+
+.xl {
+  font-size: 4rem;
+}
+
 .card {
   background-color: #fff;
   color: #333;
